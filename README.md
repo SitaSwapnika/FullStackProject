@@ -6,7 +6,7 @@ Its an online learning portal, that consists of few topics taught that cover HTM
 This project is developed using HTML, CSS, Javascript along with node js, express js and firebase.
 
 ## Contributors
-https://github.com/CHIPPEROSHNI
-https://github.com/SitaSwapnika
-https://github.com/Raghavi5375
-https://github.com/Sathvikanarla
+Roshni Chippe\
+B Sita Swapnika\
+Samala Raghavi\
+Sathvika Narla\
